@@ -25,3 +25,6 @@ También hay un par de extensiones bastante útiles que les pueden servir.
 * [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 * [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
+
+
+[Video sobre otras extensiones interensantes](https://www.youtube.com/watch?v=xBVGxIuAATs)
