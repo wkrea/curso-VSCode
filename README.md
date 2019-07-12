@@ -23,3 +23,5 @@ También hay un par de extensiones bastante útiles que les pueden servir.
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
 * [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
+* [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
